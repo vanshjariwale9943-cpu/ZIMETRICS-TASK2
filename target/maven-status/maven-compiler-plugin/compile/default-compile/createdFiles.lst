@@ -1,0 +1,4 @@
+com\zimetrics\library\LibraryApplication.class
+com\zimetrics\library\model\Book.class
+com\zimetrics\library\controller\BookController.class
+com\zimetrics\library\service\BookService.class
